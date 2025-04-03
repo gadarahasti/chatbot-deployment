@@ -1,17 +1,14 @@
-# Chatbot Deployment with Flask and JavaScript
+## AI-Powered Virtual Try-On & Outfit Recommendation System
+## Project Overview
+## Objective
+To develop an AI-driven platform that allows users to virtually try on clothing items and receive personalized outfit recommendations. The system aims to bridge the gap between online shopping and physical retail experiences, reducing return rates and enhancing customer satisfaction.
+## Key Features
+Virtual Try-On: Users can upload photos or use live video to see how outfits look on them.Personalized Recommendations: AI suggests clothing based on user preferences, body shape, and fashion trends.Integration with E-commerce Platforms: Connect with online stores for real-time inventory updates.Social Media Integration: Users can share their try-on experiences online.
 
-   This project is a simple AI chatbot deployed using Flask for the backend and JavaScript for the frontend. The chatbot interacts with users via a web interface and processes messages using a pre-trained AI model or custom logic.
+## More description about project and which technology we will use in our project are discribe in above outfitrecommedation.pdf and word file.
 
-
-## Features:
-
-▪ Backend: Flask (Python) API for chatbot responses.
-
-▪ Frontend: JavaScript & HTML for user interaction.
-
-▪ REST API for communication between client and server.
-
-▪ Simple and lightweight chatbot framework.
+## currently we have Done AI chatbot which we will use in our system for communication between our help team and customer.
+by using following step you can download AI chatbot and review it.
 
 ## Initial Setup:
 This repo currently contains the starter files.
@@ -59,13 +56,6 @@ $ (venv) python chat.py
 │── README.md       # Project documentation
 ```
 
-## License:
-
-This project is licensed under the MIT License.
-
-
-
-
-
-
+## UI
+![chatbot1](https://github.com/user-attachments/assets/5dcda3f0-1a54-4ca8-b617-0e870ad5fce0)
 
